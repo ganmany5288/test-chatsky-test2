@@ -7,6 +7,21 @@ from chatsky import (
     Transition as Tr,
 )
 
+```
+JAMES TO DO:
+
+1. GO THROUGH THIS BASIC CONCEPTS OF CHATSKY Example
+https://deeppavlov.github.io/chatsky/master/user_guides/basic_conceptions.html
+
+2. FIGURE OUT A WAY TO PUT THE SCRIPT INTO A JSON FILE AND LOAD IT FROM THERE.
+
+
+
+
+```
+
+
+
 
 script = {
     GLOBAL: {
